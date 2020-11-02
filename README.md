@@ -11,7 +11,7 @@ Created a website that upon clicking "Generator Passord", prompts the user to:
 If the user selects "OK" to the confirm prompts, the script will add those characters into an empty array. After all the confirms, the script will then randomly select from the array and push the selection into another empty array in which the final password is stored. Once the script has randomly selected until the desired password length, the document will update the text to contain the randomly generated password. 
    
 Screenshot:    
-![Screenshot](password generator.JPG)    
+![Screenshot](password-generator.JPG)    
    
 Link: 
 https://nartexyu.github.io/Password-Generator/
