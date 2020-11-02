@@ -27,7 +27,7 @@ function writePassword() {
   }
 
   // variables to store boolean if user wants each of the 4 types of chars in their password
-  var confirmLower = confirm("Would you like to include lower case letters in your password?");
+  var confirmLower = confirm("Would yougit  like to include lower case letters in your password?");
   var confirmUpper = confirm("Would you like to include upper case letters in your password?");
   var confirmNumber = confirm("Would you like to include numbers in your password?");
   var confirmSpecial = confirm("Would you like to include special characters in your password?");
